@@ -1,31 +1,12 @@
-# Futurología del Aprendizaje — repositorio de materiales
+# Futurología del Aprendizaje — diseño editorial
 
-Sitio de consulta de materiales académicos construido con Jekyll, Minimal Mistakes y GitHub Pages.
+Sitio GitHub Pages con Minimal Mistakes. Esta versión conserva las páginas de las tres unidades, biblioteca, recursos y acerca de; cambia la presentación de la portada y añade estilos propios.
 
-## Publicar en GitHub Pages
+## Actualizar el repositorio existente
 
-1. Crea un repositorio público llamado `futurologia-aprendizaje`.
-2. Sube **el contenido de esta carpeta**, no la carpeta contenedora, a la raíz del repositorio. Incluye los archivos y carpetas que comienzan por `_`.
-3. Edita `_config.yml`: sustituye `USUARIO` en `url` y `repository` por tu cuenta de GitHub. Si usas un nombre de repositorio distinto, modifica también `baseurl`.
-4. Abre **Settings → Pages → Build and deployment** y selecciona **Deploy from a branch**, rama `main`, carpeta `/ (root)`.
-5. Espera a que GitHub Pages publique el sitio y accede a `https://USUARIO.github.io/futurologia-aprendizaje/`.
+1. Descomprimir el ZIP.
+2. Subir **el contenido** de la carpeta al repositorio `jlso1o/futurologia-aprendizaje`, conservando la estructura de directorios.
+3. Sobrescribir `index.md`, `_config.yml`, `assets/css/custom.css` y agregar `_includes/head/custom.html`. Los restantes archivos de esta entrega son compatibles con la estructura anterior; **si ya has editado alguna unidad o agregado recursos, no la sobrescribas**.
+4. Confirmar los cambios (Commit changes). Si GitHub Pages no se actualiza, revisar **Actions** y **Settings → Pages**.
 
-El tema remoto de Minimal Mistakes y `jekyll-include-cache` están configurados. Requiere que GitHub Pages pueda construir el sitio con Jekyll.
-
-## Incorporar un material
-
-- Agrega una nueva fila en la tabla de la página `_pages/unidad-N.md` (hay un ejemplo comentado) o inserta un enlace debajo de "Materiales de consulta".
-- Enlaza el recurso público original o agrega archivos propios/autorizados en `assets/documentos/` y `assets/presentaciones/`.
-- Para archivos subidos, usa enlaces Liquid: `[Abrir PDF]({{ '/assets/documentos/archivo.pdf' | relative_url }})`.
-- Evita subir archivos protegidos por derechos de autor sin autorización.
-
-## Diseño
-
-- Sin banners, calendarios ni módulos de entrega.
-- Navegación superior: Inicio, Unidades, Biblioteca, Recursos y Acerca de.
-- Páginas intencionalmente limpias, sin contenidos ficticios.
-- Cambia `minimal_mistakes_skin: "air"` en `_config.yml` para probar otra variante de color.
-
-## Probar localmente (opcional)
-
-Con Ruby y Bundler instalados: `bundle install && bundle exec jekyll serve`.
+La portada no promete materiales aún no publicados. El contenido se incorpora a las páginas de unidad cuando esté disponible.
