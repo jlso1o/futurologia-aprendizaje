@@ -6,7 +6,7 @@ classes: wide home-refined
 ---
 <div class="fa-hero">
   <div class="fa-hero__content">
-    <p class="fa-eyebrow">Seminario · Repositorio académico</p>
+    <p class="fa-eyebrow">Maestría en Ciencias para el Aprendizaje · Seminario · Repositorio académico</p>
     <h1>Futurología<br>del Aprendizaje</h1>
     <p class="fa-hero__lead">Prospectiva, innovación y escenarios para la educación del futuro</p>
     <p class="fa-hero__body">Un espacio de consulta con materiales de apoyo para el análisis crítico de los futuros del aprendizaje en la Maestría en Ciencias para el Aprendizaje.</p>
