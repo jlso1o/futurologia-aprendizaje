@@ -1,0 +1,29 @@
+title: "Futurología del Aprendizaje"
+subtitle: "Repositorio académico de materiales de apoyo"
+description: "Materiales de apoyo del seminario Futurología del Aprendizaje · Maestría en Ciencias para el Aprendizaje."
+url: "https://jlso1o.github.io"
+baseurl: "/futurologia-aprendizaje"
+repository: "jlso1o/futurologia-aprendizaje"
+locale: "es-MX"
+remote_theme: "mmistakes/minimal-mistakes@4.28.1"
+minimal_mistakes_skin: "air"
+search: false
+breadcrumbs: false
+atom_feed:
+  hide: true
+plugins:
+  - jekyll-include-cache
+  - jekyll-remote-theme
+markdown: kramdown
+include:
+  - _pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: single
+      author_profile: false
+      classes: wide
+      header:
+        overlay_image: false
+      toc: false

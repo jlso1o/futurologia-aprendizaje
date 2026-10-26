@@ -1,0 +1,11 @@
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Unidades"
+    url: /unidades/
+  - title: "Biblioteca"
+    url: /biblioteca/
+  - title: "Recursos"
+    url: /recursos/
+  - title: "Acerca de"
+    url: /acerca/
