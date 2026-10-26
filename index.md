@@ -10,6 +10,7 @@ classes: wide home-refined
     <h1>Futurología<br>del Aprendizaje</h1>
     <p class="fa-hero__lead">Prospectiva, innovación y escenarios para la educación del futuro</p>
     <p class="fa-hero__body">Un espacio de consulta con materiales de apoyo para el análisis crítico de los futuros del aprendizaje en la Maestría en Ciencias para el Aprendizaje.</p>
+    <p class="fa-hero__body">Elaborado por Dr. José Luis Soto Ortiz.</p>
   </div>
   <div class="fa-hero__art" aria-hidden="true"><span></span><span></span><span></span></div>
 </div>
