@@ -19,7 +19,7 @@ Bayne, S., & Ross, J. (2024). Speculative futures for higher education. *Interna
 
 Comisión Internacional sobre los Futuros de la Educación. (2022). *Reimaginar juntos nuestros futuros: Un nuevo contrato social para la educación*. UNESCO. [https://unesdoc.unesco.org/ark:/48223/pf0000381560](https://unesdoc.unesco.org/ark:/48223/pf0000381560)
 
-Edel Navarro, R. (2026). Investigación basada en diseño (IBD): ¿metodología de investigación científica o metodología didáctica? *Psicología Educativa, 14*, 111–117. [https://doi.org/10.22201/fpsic.24486957e.2026.14.226](https://doi.org/10.22201/fpsic.24486957e.2026.14.226)
+Edel Navarro, R. (2026). Investigación basada en diseño (IBD): ¿metodología de investigación científica o metodología didáctica? *Psicología Educativa, 14*, 111–117. [https://revistapsicologiaeducativa.unam.mx/index.php/psicologiaeducativa/article/view/226](https://revistapsicologiaeducativa.unam.mx/index.php/psicologiaeducativa/article/view/226)
 
 Organisation for Economic Co-operation and Development. (2025). *Trends shaping education 2025*. OECD Publishing. [https://doi.org/10.1787/ee6587fd-en](https://doi.org/10.1787/ee6587fd-en)
 
