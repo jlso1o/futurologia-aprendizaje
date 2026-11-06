@@ -7,13 +7,11 @@ Referentes para examinar los fundamentos, supuestos y aportaciones de la prospec
 
 ## Materiales de consulta
 
-*En preparación. Se incorporarán únicamente los materiales seleccionados para esta unidad.*
+Los siguientes recursos académicos apoyan el estudio de los contenidos correspondientes a esta unidad.
 
-<!-- Ejemplo de registro, activar cuando haya un recurso real:
 | Material | Tipo | Acceso |
 |---|---|---|
-| Título del recurso | Artículo / PDF / presentación | [Consultar](ENLACE_REAL) |
--->
+| Tema 1. Fundamentación y planeación | Documento académico (PDF) | [Consultar PDF](https://github.com/jlso1o/futurologia-aprendizaje/raw/refs/heads/main/_pages/Tema_1_Fundamentacion_y_Planeacion.pdf) |
 
 ## Referencias complementarias
 
