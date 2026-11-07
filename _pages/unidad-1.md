@@ -7,11 +7,14 @@ Referentes para examinar los fundamentos, supuestos y aportaciones de la prospec
 
 ## Materiales de consulta
 
-Los siguientes recursos académicos apoyan el estudio de los contenidos correspondientes a esta unidad.
+Los siguientes recursos académicos apoyan el desarrollo del taller-seminario y el análisis crítico de las propuestas educativas.
 
 | Material | Tipo | Acceso |
 |---|---|---|
+| Encuadre del taller-seminario Tópicos de Futurología | Presentación (PDF) | [Consultar PDF](https://github.com/jlso1o/futurologia-aprendizaje/raw/refs/heads/main/_pages/Encuadre_Topicos_de_Futurologia.pdf) |
 | Tema 1. Fundamentación y planeación | Documento académico (PDF) | [Consultar PDF](https://github.com/jlso1o/futurologia-aprendizaje/raw/refs/heads/main/_pages/Tema_1_Fundamentacion_y_Planeacion.pdf) |
+| Sesión 1. Ejemplos de análisis y aplicación | Material de apoyo (PDF) | [Consultar PDF](https://github.com/jlso1o/futurologia-aprendizaje/raw/refs/heads/main/_pages/Futurologia_II_Sesion_1_Ejemplos_Actualizada.pdf) |
+
 
 ## Referencias complementarias
 
