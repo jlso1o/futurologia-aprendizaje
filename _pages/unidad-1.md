@@ -14,7 +14,7 @@ Los siguientes recursos académicos apoyan el desarrollo del taller-seminario y 
 | Encuadre del taller-seminario Tópicos de Futurología | Presentación (PDF) | [Consultar PDF](https://github.com/jlso1o/futurologia-aprendizaje/raw/refs/heads/main/_pages/Encuadre_Topicos_de_Futurologia.pdf) |
 | Tema 1. Fundamentación y planeación | Documento académico (PDF) | [Consultar PDF](https://github.com/jlso1o/futurologia-aprendizaje/raw/refs/heads/main/_pages/Tema_1_Fundamentacion_y_Planeacion.pdf) |
 | Sesión 1. Ejemplos de análisis y aplicación | Material de apoyo (PDF) | [Consultar PDF](https://github.com/jlso1o/futurologia-aprendizaje/raw/refs/heads/main/_pages/Futurologia_II_Sesion_1_Ejemplos_Actualizada.pdf) |
-
+| Sesión 2. Falsabilidad y prospectiva crítica | Presentación (PDF) | [Consultar PDF](https://github.com/jlso1o/futurologia-aprendizaje/blob/main/_pages/sesion-2-falsabilidad-prospectiva-critica.pdf) |
 
 ## Referencias complementarias
 
